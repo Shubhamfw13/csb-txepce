@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shubhamfw13.github.io/csb-txepce/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://shubhamfw13.github.io/csb-txepce/static/js/main.f6a56480.chunk.js",
+    "main.js.map": "https://shubhamfw13.github.io/csb-txepce/static/js/main.f6a56480.chunk.js.map",
+    "runtime-main.js": "https://shubhamfw13.github.io/csb-txepce/static/js/runtime-main.a93d599e.js",
+    "runtime-main.js.map": "https://shubhamfw13.github.io/csb-txepce/static/js/runtime-main.a93d599e.js.map",
+    "static/js/2.048f4e1d.chunk.js": "https://shubhamfw13.github.io/csb-txepce/static/js/2.048f4e1d.chunk.js",
+    "static/js/2.048f4e1d.chunk.js.map": "https://shubhamfw13.github.io/csb-txepce/static/js/2.048f4e1d.chunk.js.map",
+    "index.html": "https://shubhamfw13.github.io/csb-txepce/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://shubhamfw13.github.io/csb-txepce/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.048f4e1d.chunk.js.LICENSE.txt": "https://shubhamfw13.github.io/csb-txepce/static/js/2.048f4e1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a93d599e.js",
+    "static/js/2.048f4e1d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f6a56480.chunk.js"
+  ]
+}
